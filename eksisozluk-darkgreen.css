@@ -747,4 +747,12 @@
     li[data-author=reklam] {
         display: none;
     }
+    /* Eksisozluk Images */
+    #pagewrap #leftwrap {
+        margin: 0 auto !important;
+        width: 100% !important;
+    }
+    #pagewrap #rightwrap {
+        display: none !important;
+    }
 }
