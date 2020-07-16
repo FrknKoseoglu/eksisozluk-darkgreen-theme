@@ -1,20 +1,20 @@
 @-moz-document domain("eksisozluk.com") {
-     ::selection {
+    ::selection {
         background: #80c14b;
         color: #fff;
     }
-     :focus {
+    :focus {
         outline: 0;
         outline: none;
     }
-     ::-webkit-scrollbar-track {
+    ::-webkit-scrollbar-track {
         -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
         background-color: #333!important;
     }
-     ::-webkit-scrollbar {
+    ::-webkit-scrollbar {
         width: 4px!important;
     }
-     ::-webkit-scrollbar-thumb {
+    ::-webkit-scrollbar-thumb {
         background-color: #A9894F!important;
         border-radius: 0!important;
     }
@@ -747,7 +747,7 @@
     li[data-author=reklam] {
         display: none;
     }
-    /* Eksisozluk Images */
+    /* Eksisozluk Images - START - */
     #pagewrap #leftwrap {
         margin: 0 auto !important;
         width: 100% !important;
@@ -770,5 +770,15 @@
     }
     #pagewrap footer {
         margin: 0 !important;
+    }
+    /* Eksisozluk Images - END -*/
+    #yeni-reklam {
+        display: none !important;
+    }
+    html.no-touch .theme-enabled #main {
+        padding-top: 0 !important;
+    }
+    html.no-touch .theme-enabled #index-section {
+        padding-top: 0 !important;
     }
 }
