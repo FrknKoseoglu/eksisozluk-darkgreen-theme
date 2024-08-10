@@ -1,7 +1,7 @@
 # Ekşisözlük Dark Green Teması
 
-Stylus eklentisi ile aşağıdaki adresten indirip kullanabilirsiniz.
+Stylish eklentisini aşağıdaki adresten indirip kullanabilirsiniz.
 
-Eklenti : https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne <br>
-Theme : https://userstyles.org/styles/168573/eksisozluk-dark-green-guncel
+Eklenti : https://chromewebstore.google.com/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe <br>
+Theme : https://userstyles.org/styles/275552/ek-i-s-zl-k-dark-theme
 
